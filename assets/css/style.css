@@ -39,10 +39,16 @@ h2{
     height:90px;
     background-color: palevioletred;
     text-align: center;
+    width:50%;
+    float: right;
 }
 .container{
-    width: 37%;
+    height: 90px;
+    width: 25%;
     border: 3px;
     border-style: solid;
     border-color: black;
+}
+#totalScore{
+    font-size:50px;
 }
