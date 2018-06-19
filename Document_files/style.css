@@ -24,25 +24,15 @@ h2{
 }
 
 #randomNumberBox{
-    height:84px;
-    width:100px;
+    height:40px;
     background-color: palevioletred;
-    float: left;
-    font-size: 60px;
-    text-align: center;
-    border-right: 2px;
-    border-style:solid;
-    
 
 }
 #winsLossesBox{
-    height:90px;
+    height:100px;
     background-color: palevioletred;
     text-align: center;
 }
 .container{
     width: 37%;
-    border: 3px;
-    border-style: solid;
-    border-color: black;
 }
