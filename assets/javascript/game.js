@@ -9,7 +9,8 @@ var fourthRandom = Math.floor(Math.random() * 17);
 var answer = (Math.floor((Math.random() * 101) + 19))
 var wins=0
 var losses=0
-
+$("#wins").text(wins)
+$("#losses").text(losses)
 $("#randomNumberBox").text(answer)
 $("#firstButton").on("click", function () {
     userScore += firstRandom
